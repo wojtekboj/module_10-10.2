@@ -1,1 +1,1 @@
-# module_10-10.2
+Link do zadania 10.2 https://wojtekboj.github.io/module_10-10.2/index.html
